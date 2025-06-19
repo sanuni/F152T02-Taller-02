@@ -1,0 +1,28 @@
+.uno{
+    background-color: lime;
+    color: black;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    padding: 10px 5px 10px 5px;
+}
+
+.dos{
+    background-color: darkcyan;
+    color: blue;
+    width: 50%;
+    height: auto;
+    margin-right: auto;
+    border: 2px dashed black;
+    padding: 10px 5px 10px 5px;
+}
+
+.tres{
+    background-color: rgb(211, 0, 116);
+    color: white;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    border: 10px double brown;
+}

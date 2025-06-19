@@ -1,0 +1,26 @@
+.uno{
+    background-color: yellow;
+    color: blue;
+    width: 400px;
+    height: 350px;
+    border: 2px solid green;
+    overflow: visible;
+}
+
+.dos{
+    background-color: royalblue;
+    color:gold;
+    width: 400px;
+    height: 250px;
+    border: 2px solid violet;
+    overflow: hidden;
+}
+
+.tres{
+    background-color: red;
+    color: white;
+    width: 500px;
+    height: 200px;
+    border: 2px solid black;
+    overflow: scroll;
+}

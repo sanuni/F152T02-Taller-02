@@ -1,0 +1,46 @@
+.uno{
+ width: 50%;
+ height: 30%;
+ border: solid blue;
+}
+
+.dos{
+    width: 50%;
+    height: 30%;
+    border: dashed;
+}
+.tres{
+    width: 50%;
+    height: 30%;
+    border: dotted;
+}
+
+.cuatro{
+    width: 50%;
+    height: 30%;
+    border: double red;
+}
+
+.cinco{
+    width: 50%;
+    height: 30%;
+    border: groove green;
+}
+
+.seis{
+    width: 50%;
+    height: 30%;
+    border: ridge 2px purple;
+}
+
+.siete{
+    width: 50%;
+    height: 30%;
+    border: inset rebeccapurple;
+}
+
+.ocho{
+    width: 50%;
+    height: 30%;
+    border: outset lightseagreen;
+}
