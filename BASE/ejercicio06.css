@@ -11,25 +11,25 @@
                     B22222
                 */
                 body {
-                    background-color: #347433;
+                    background-color: #536ec5;
                     width: 80%;
-                    border: 3px solid #FF6F3C;
+                    border: 3px solid black;
                     text-align: center;
                     margin: 20px auto;
                 }
                 
                 header{
                     background-color: #FFC107;
-                    border: 5px solid #347433;
+                    border: 5px solid #536ec5;
                 }
                 
                 main{
                     background-color: #FF6F3C;
-                    border: 5px solid #347433;
+                    border: 5px solid #536ec5;
                 }
                 
                 footer{
                     background-color: #B22222;
-                    border: 5px solid #347433;   
+                    border: 5px solid #536ec5;   
                 }
             
